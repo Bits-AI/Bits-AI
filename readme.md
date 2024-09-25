@@ -31,7 +31,7 @@
 
 ### Some of the frameworks I have used
 
-[[![.NET](https://img.shields.io/badge/.NET-000000?logo=dotnet&logoColor=fff)](#)
+[![.NET](https://img.shields.io/badge/.NET-000000?logo=dotnet&logoColor=fff)](#)
 [![Django](https://img.shields.io/badge/Django-000000.svg?logo=django&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=fff)](#)
 [![Electron](https://img.shields.io/badge/Electron-000000?logo=electron&logoColor=fff)](#)
