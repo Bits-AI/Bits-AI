@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
     <img align="left" height="170" src="https://64.media.tumblr.com/aa2495fea57ce124b5f7a88b4e3f2f32/c75c203b94950d0e-d3/s500x750/e0ee907cba9a690fe93547af3b926586e85b740b.gifv" style="margin-right: 15px;" />
     <div>
-        <h1>Bits-AI</h1>
+        <h3 style="font-size: 48px;">Bits-AI</h3>
         <img src="https://media1.giphy.com/media/QBhCWLPmf9nvAc7MP3/giphy.gif?cid=6c09b952z3x89qorms6c1vkjqhr6mvzs4k765mclhda4zhcp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="" style="width:30px; height:30px; vertical-align: middle; padding:5px"/> From <strong>Malaysia</strong>
         <br />
         <img src="https://media.tenor.com/Se5Q8ddpe84AAAAM/monkey-pissed-monkey.gif" alt="" style="width:30px; height:30px; vertical-align: middle; padding:5px"/> Senior Software Developer
@@ -10,6 +10,7 @@
     </div>
 </div>
 
+<br />
 
 ### I work with these stacks
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
